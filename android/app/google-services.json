@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975288791834",
+    "project_id": "rhymecreator-81a78",
+    "storage_bucket": "rhymecreator-81a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975288791834:android:96dbfa129ac2d70619f2a3",
+        "android_client_info": {
+          "package_name": "com.dartmancer.rhymes_creator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM8Jl96yIpws75fG5FlqsaqoOWfuTcraY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
